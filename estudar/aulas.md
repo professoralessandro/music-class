@@ -10,15 +10,21 @@ Este repositório contém meu cronograma de estudo e prática musical, organizad
 - **Aula 1**  
   [Assistir no YouTube](https://www.youtube.com/watch?v=b3xVkiQySF4&t=615s)
 - **Aula 2**  
-  *(a preencher)*
+  *[Assistir no YouTube](https://www.youtube.com/watch?v=dknh19VnBMs)
 - **Aula 3**  
-  *(a preencher)*
+  *[Assistir no YouTube](https://www.youtube.com/watch?v=6is1URFUs5c)
 
 ---
 
 ### 🎶 Tocar de Ouvido sem Precisar de Cifra
 - **Aula 1**  
   [Assistir no YouTube](https://www.youtube.com/watch?v=ZuccxPiRSs4)
+
+---
+
+### 🎶 OS SEGREDOS da Percepção Musical
+- **Aula 1**  
+  [Assistir no YouTube](https://www.youtube.com/watch?v=rFUGkCbzBXI&t=127s)
 
 ---
 
