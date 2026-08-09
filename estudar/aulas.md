@@ -1,37 +1,34 @@
-# 📚 Plano de Aulas e Estudo
+# 🎼 Plano de Aulas e Estudo Musical
 
-Este documento organiza o cronograma das aulas para estudo musical.
+Este repositório contém meu cronograma de estudo e prática musical, organizado por módulos e aulas.
 
 ---
 
-## 🎵 Percepção Musical
+## 📖 Módulos de Estudo
 
+### 🎵 Percepção Musical
 - **Aula 1**  
-  [Link para a aula](https://www.youtube.com/watch?v=b3xVkiQySF4&t=615s)
-
+  [Assistir no YouTube](https://www.youtube.com/watch?v=b3xVkiQySF4&t=615s)
 - **Aula 2**  
   *(a preencher)*
-
 - **Aula 3**  
   *(a preencher)*
 
 ---
 
-## 🎶 Tocar de Ouvido sem Precisar de Cifra
-
+### 🎶 Tocar de Ouvido sem Precisar de Cifra
 - **Aula 1**  
-  [Link para a aula](https://www.youtube.com/watch?v=ZuccxPiRSs4)
+  [Assistir no YouTube](https://www.youtube.com/watch?v=ZuccxPiRSs4)
 
 ---
 
-## 🎸 Chord Melody
-
+### 🎸 Chord Melody
 - **Aula 1**  
-  [Link para a aula](https://www.youtube.com/watch?v=7GmcRj9fFrk)
+  [Assistir no YouTube](https://www.youtube.com/watch?v=7GmcRj9fFrk)
 
 ---
 
-## 🗓️ Sugestão de Cronograma
+## 🗓️ Cronograma Sugerido
 
 - **Semana 1:** Percepção Musical - Aula 1  
 - **Semana 2:** Percepção Musical - Aula 2  
@@ -41,7 +38,15 @@ Este documento organiza o cronograma das aulas para estudo musical.
 
 ---
 
-## ✅ Notas Pessoais
-- Adicionar observações de cada aula.  
-- Registrar dificuldades e pontos fortes.  
-- Marcar revisões semanais.
+## ✅ Checklist de Prática
+
+- [ ] Assistir à aula da semana  
+- [ ] Fazer anotações principais  
+- [ ] Praticar exercícios sugeridos  
+- [ ] Revisar conteúdo da semana anterior  
+- [ ] Registrar progresso e dificuldades  
+
+---
+
+## 📌 Notas Pessoais
+Use esta seção para adicionar observações, insights e pontos de melhoria durante o estudo.
